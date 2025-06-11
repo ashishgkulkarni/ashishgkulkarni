@@ -1,6 +1,6 @@
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
-# Hi 👋, I’m Ashish G Kulkarni
+
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I’m Ashish G Kulkarni
 
 Welcome to my GitHub! I’m a functional consultant specializing in Product Lifecycle Management (PLM), CAD, and the 3DEXPERIENCE platform. My current mission? Helping India—and especially the academic world—embrace Dassault Systèmes’ 3DEXPERIENCE Platform.
 
